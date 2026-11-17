@@ -1,0 +1,24 @@
+DIA 3 - MURAL DA EQUIPE
+
+Antes de entregar, salve este arquivo com o nome respostas_Nome_Sobrenome.txt.
+Se estiver em dupla, escreva os dois nomes no arquivo.
+
+Nome(s):Lucas Alves Maia
+Turma: tec. informatica
+Tema do aviso:JavaScript
+
+1. O que aparecia na página antes de clicar no botão?
+Resposta:Nenhum aviso aberto
+Clique no botão para ler.
+
+2. O que apareceu depois do clique? Escreva o título e a descrição que você viu.
+Resposta:oficina de JavaScript
+traga seu projeto para a prática
+
+3. Você mudou um texto no objeto aviso, salvou, recarregou e clicou de novo.
+O que aconteceu? Descreva com suas palavras.
+Resposta: ira mudar o titulo
+
+4. No seu código, qual é a diferença entre titulo e aviso.titulo?
+Por que os textos só mudam depois do clique?
+Resposta:o aviso.titulo é o id o titulo e o nome que substitui o id
